@@ -85,3 +85,4 @@ video_card.forEach((item) =>{
     video.pause();
   });
 });
+
